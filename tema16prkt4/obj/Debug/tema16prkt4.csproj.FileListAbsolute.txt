@@ -1,0 +1,7 @@
+D:\Projects VStd\tema16prkt4\bin\Debug\tema16prkt4.exe.config
+D:\Projects VStd\tema16prkt4\bin\Debug\tema16prkt4.exe
+D:\Projects VStd\tema16prkt4\bin\Debug\tema16prkt4.pdb
+D:\Projects VStd\tema16prkt4\obj\Debug\tema16prkt4.csproj.AssemblyReference.cache
+D:\Projects VStd\tema16prkt4\obj\Debug\tema16prkt4.csproj.CoreCompileInputs.cache
+D:\Projects VStd\tema16prkt4\obj\Debug\tema16prkt4.exe
+D:\Projects VStd\tema16prkt4\obj\Debug\tema16prkt4.pdb
